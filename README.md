@@ -46,10 +46,6 @@ python traffic_sign_recognition.py
 You can customize the script by changing the model architecture, hyperparameters, or preprocessing steps as needed for your specific use case.
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - This project demonstrates the use of Convolutional Neural Networks (CNNs) for traffic sign recognition.
