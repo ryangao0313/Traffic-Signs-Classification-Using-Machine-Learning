@@ -2,6 +2,7 @@
 # Traffic Sign Recognition using Convolutional Neural Networks
 
 This Python script implements a Convolutional Neural Network (CNN) to recognize traffic signs. It uses the German Traffic Sign Recognition Benchmark dataset.
+Kaggle: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/data
 
 ## Requirements
 
